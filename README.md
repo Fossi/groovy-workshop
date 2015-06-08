@@ -9,3 +9,6 @@ Zur Vorbereitung der Teilnahme an diesem Workshop sind folgende Software-Pakete 
 ### Groovy
 Zur Installation von Groovy verwenden wir das Tool [gvm](http://gvmtool.net)
 Nach der erfolgreichen Installation von gvm einfach <code>gvm install groovy</code> ausführen
+
+### IntelliJ IDEA
+Hier benötigen wir das Plugin mit dem naheliegenden Namen "Groovy"
